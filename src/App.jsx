@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "./components/card/Card";
-import Header from "./components/Header/header";
+import Header from "./components/header/Header";
 import "./App.css";
 import { cardData, headerData } from './data'; 
 
